@@ -1,7 +1,7 @@
 # RoadMap.Ak
-1) android development roadmap 
-2) front end development roadmap
-3) back end development roadmap 
-4) react native development roadmap 
-5) full stack development roadmap 
-6) react js development roadmap 
+1) Android development roadmap 
+2) Front end development roadmap
+3) Back end development roadmap 
+4) React native development roadmap 
+5) Full stack development roadmap 
+6) React js development roadmap 
