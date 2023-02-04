@@ -5,4 +5,4 @@
 4) React native development roadmap 
 5) Full stack development roadmap 
 6) React js development roadmap 
-U) block chain development 
+7) block chain development 
